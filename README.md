@@ -7,5 +7,5 @@ use the powershell script
 # install Open Management Infrastructure
 https://github.com/Microsoft/omi
 
-# istall DSC
+# install DSC
 https://github.com/Microsoft/PowerShell-DSC-for-Linux/releases/tag/v1.2.1-0
